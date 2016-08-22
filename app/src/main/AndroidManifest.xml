@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.peter_sumit.tally_data">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+
+    <application
+        android:allowBackup="true"
+        android:configChanges="orientation|keyboardHidden"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".sucess" />
+        <activity android:name=".main_screen" />
+        <activity android:name=".Income" />
+        <activity android:name=".Expenditure" />
+        <activity android:name=".Payable" />
+        <activity android:name=".cashandbank" />
+        <activity android:name=".stock" />
+        <activity android:name=".loan" />
+        <activity android:name=".PNL" />
+        <activity android:name=".DisplayLedgerGroups" />
+        <activity android:name=".LedgerAnalysis"></activity>
+    </application>
+
+</manifest>
