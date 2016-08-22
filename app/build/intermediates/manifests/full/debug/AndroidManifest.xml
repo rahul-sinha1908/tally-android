@@ -25,7 +25,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.peter_sumit.tally_data.sucess" />
         <activity android:name="com.example.peter_sumit.tally_data.main_screen" />
         <activity android:name="com.example.peter_sumit.tally_data.Income" />
         <activity android:name="com.example.peter_sumit.tally_data.Expenditure" />
@@ -36,6 +35,7 @@
         <activity android:name="com.example.peter_sumit.tally_data.PNL" />
         <activity android:name="com.example.peter_sumit.tally_data.DisplayLedgerGroups" />
         <activity android:name="com.example.peter_sumit.tally_data.LedgerAnalysis" />
+        <activity android:name="com.example.peter_sumit.tally_data.Recievable" />
     </application>
 
 </manifest>

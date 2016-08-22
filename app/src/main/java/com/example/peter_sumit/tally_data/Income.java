@@ -10,30 +10,34 @@ import android.widget.TextView;
 
 public class Income extends AppCompatActivity {
 
-    public static String groups[]={"Branch / Divisions",
-            "Capital Account",
-            "Reserves & Surplus",
-            "Current Assets",
-            "Bank Accounts",
-            "Cash-in-hand",
-            "Cash",
-            "Deposits (Asset)",
-            "Loans & Advances (Asset)",
-            "Stock-in-hand",
-            "Sundry Debtors",
-            "Current Liabilities",
-            "Duties & Taxes",
-            "Provisions",
-            "Sundry Creditors",
-            "Fixed Assets",
-            "Investments",
-            "Loans (Liability)",
-            "Bank OD A/c",
-            "Secured Loans",
-            "Unsecured Loans",
-            "Misc. Expenses (ASSET)",
-            "Suspense A/c",
-            "Profit & Loss A/c"
+    private static String groups[]={
+            "Direct Incomes",
+            "Indirect Incomes",
+            "Sales Accounts"
+            //"Branch / Divisions",
+            //"Capital Account",
+            //"Reserves & Surplus",
+            //"Current Assets",
+            //"Bank Accounts",
+            //"Cash-in-hand",
+            //"Cash",
+            //"Deposits (Asset)",
+            //"Loans & Advances (Asset)",
+            //"Stock-in-hand",
+            //"Sundry Debtors",
+            //"Current Liabilities",
+            //"Duties & Taxes",
+            //"Provisions",
+            //"Sundry Creditors",
+            //"Fixed Assets",
+            //"Investments",
+            //"Loans (Liability)",
+            //"Bank OD A/c",
+            //"Secured Loans",
+            //"Unsecured Loans",
+            //"Misc. Expenses (ASSET)",
+            //"Suspense A/c",
+            //"Profit & Loss A/c"
     };
 
     LinearLayout cont;

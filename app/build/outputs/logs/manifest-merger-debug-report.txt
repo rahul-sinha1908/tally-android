@@ -18,7 +18,7 @@ ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/m
 	android:name
 		ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:5:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:6:5-80
+ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:6:5-81
 	android:name
 		ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:6:22-78
 application
@@ -56,50 +56,50 @@ category#android.intent.category.LAUNCHER
 ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:19:17-77
 	android:name
 		ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:19:27-74
-activity#com.example.peter_sumit.tally_data.sucess
-ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:22:9-44
-	android:name
-		ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:22:19-41
 activity#com.example.peter_sumit.tally_data.main_screen
-ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:23:9-49
+ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:22:9-49
 	android:name
-		ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:23:19-46
+		ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:22:19-46
 activity#com.example.peter_sumit.tally_data.Income
-ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:24:9-44
+ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:23:9-44
 	android:name
-		ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:24:19-41
+		ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:23:19-41
 activity#com.example.peter_sumit.tally_data.Expenditure
-ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:25:9-49
+ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:24:9-49
 	android:name
-		ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:25:19-46
+		ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:24:19-46
 activity#com.example.peter_sumit.tally_data.Payable
-ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:26:9-45
+ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:25:9-45
 	android:name
-		ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:26:19-42
+		ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:25:19-42
 activity#com.example.peter_sumit.tally_data.cashandbank
-ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:27:9-49
+ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:26:9-49
 	android:name
-		ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:27:19-46
+		ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:26:19-46
 activity#com.example.peter_sumit.tally_data.stock
-ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:28:9-43
+ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:27:9-43
 	android:name
-		ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:28:19-40
+		ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:27:19-40
 activity#com.example.peter_sumit.tally_data.loan
-ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:29:9-42
+ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:28:9-42
 	android:name
-		ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:29:19-39
+		ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:28:19-39
 activity#com.example.peter_sumit.tally_data.PNL
-ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:30:9-41
+ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:29:9-41
 	android:name
-		ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:30:19-38
+		ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:29:19-38
 activity#com.example.peter_sumit.tally_data.DisplayLedgerGroups
-ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:31:9-57
+ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:30:9-57
 	android:name
-		ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:31:19-54
+		ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:30:19-54
 activity#com.example.peter_sumit.tally_data.LedgerAnalysis
-ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:32:9-61
+ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:31:9-52
 	android:name
-		ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:32:19-49
+		ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:31:19-49
+activity#com.example.peter_sumit.tally_data.Recievable
+ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:32:9-57
+	android:name
+		ADDED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml:32:19-45
 uses-sdk
 INJECTED from /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:23.4.0] /home/rsinha/AndroidStudioProjects/PROJECT TALLY/Tally_data/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:21:5-23:78

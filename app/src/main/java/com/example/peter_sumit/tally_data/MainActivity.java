@@ -138,7 +138,7 @@ public class MainActivity extends AppCompatActivity {
                 data[i]=new LedgersAndGroups(din);
             }
             din.close();
-            startActivity(new Intent(this, sucess.class));
+            startActivity(new Intent(this, main_screen.class));
             finish();
         }catch(Exception ex){
             Log.i("Check",ex.getMessage());
@@ -219,7 +219,7 @@ public class MainActivity extends AppCompatActivity {
         protected void onPostExecute(String s) {
             dialog.dismiss();
             if(b) {
-                startActivity(new Intent(cont, sucess.class));
+                startActivity(new Intent(cont, main_screen.class));
                 finish();
             }else{
                 Toast.makeText(cont, error, Toast.LENGTH_LONG).show();

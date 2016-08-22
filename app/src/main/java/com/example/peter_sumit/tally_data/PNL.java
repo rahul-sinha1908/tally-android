@@ -10,7 +10,7 @@ import android.widget.TextView;
 
 public class PNL extends AppCompatActivity {
 
-    public static String groups[]={"Stock-in-hand",
+    private static String groups[]={"Stock-in-hand",
             "Direct Expenses",
             "Direct Incomes",
             "Indirect Expenses",
